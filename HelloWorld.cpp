@@ -1,6 +1,8 @@
 // Simple C++ program to display "Hello World" 
+// Author: Mac-Rufus Umeokolo <mac-rufus.umeokolo@wayne.edu>
+
 // Header file for input output functions 
-#include<iostream>  
+#include <iostream>  
   
 using namespace std; 
   
